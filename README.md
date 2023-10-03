@@ -1,7 +1,3 @@
-Editing the README.md file for Q5.3.
-
-Further editing the README.md file for Q5.5. 
-
 # Basic Statistics
 
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
